@@ -1,0 +1,19 @@
+==================================================
+      BANK LOAN ANALYSIS - AUTOMATED INSIGHTS     
+==================================================
+
+1. REGIONAL HIGHLIGHTS:
+   - Sabse zyada loan applications NC state se aaye hain (3,073 apps).
+   - NC me total funded amount $61,796,800.00 raha.
+
+2. RISK & REPAYMENT FACTORS:
+   - Grade A Loans ka Default (Bad Loan) Rate: 4.65%
+   - Grade B Loans ka Default (Bad Loan) Rate: 5.22%
+   - Grade C Loans ka Default (Bad Loan) Rate: 14.80%
+   - Grade D Loans ka Default (Bad Loan) Rate: 14.98%
+   - Grade E Loans ka Default (Bad Loan) Rate: 29.06%
+   - Grade F Loans ka Default (Bad Loan) Rate: 29.87%
+
+3. CONCLUSION FOR MANAGEMENT:
+   - Lower grades (E, F) me interest rates high hain par default risk bhi zyada hai.
+   - Risk mitigation ke liye E aur F grade ke loan approvals par strict guidelines chahiye.
